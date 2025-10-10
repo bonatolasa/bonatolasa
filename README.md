@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bona T</h1>
 <h3 align="center">Full Stack Developer | Passionate about Building Digital Solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/coder.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 ## 🚀 About Me
 
@@ -45,12 +45,6 @@ I'm a passionate full-stack developer from Ethiopia with a strong interest in cr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonatolasa&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
-</p>
 
 ## 📫 Let's Connect
 

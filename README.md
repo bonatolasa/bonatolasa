@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bona T</h1>
 <h3 align="center">Full Stack Developer | Passionate about Building Digital Solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/coder.gif">
 
 ## 🚀 About Me
 
@@ -31,15 +31,26 @@ I'm a passionate full-stack developer from Ethiopia with a strong interest in cr
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonatolasa&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
+</p>
 
 ## 📫 Let's Connect
 
@@ -52,17 +63,12 @@ I'm a passionate full-stack developer from Ethiopia with a strong interest in cr
   </a>
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bonatolasa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
 ## 🎯 Currently Working On
 
 - Enhancing my full-stack development skills
-- Building projects with modern web technologies
+- Building MERN stack applications
 - Learning new frameworks and best practices
+- Contributing to open source projects
 
 ---
 

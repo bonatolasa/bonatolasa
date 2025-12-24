@@ -141,7 +141,7 @@ I'm a passionate full-stack developer from Ethiopia with 3+ years of experience 
 
 ## 🎵 Now Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
 
 ## 🖥️ Development Setup
 

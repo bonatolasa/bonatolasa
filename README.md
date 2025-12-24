@@ -17,7 +17,8 @@ I'm a passionate full-stack developer from Ethiopia with a strong interest in cr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bonatolasa&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bonatolasa&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bonatolasa&theme=radical" />
 </p>
 

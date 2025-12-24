@@ -98,27 +98,6 @@ I'm a passionate full-stack developer from Ethiopia with 3+ years of experience 
 
 *Note: To add WakaTime stats, connect your GitHub to WakaTime and use the WakaTime README stats action.*
 
-## 📁 Featured Projects
-
-### 🔥 [Project Name](https://github.com/bonatolasa/project-repo)
-**Tech Stack:** React, Node.js, MongoDB, Express
-A full-stack web application for [brief description].
-
-### 🚀 [Another Project](https://github.com/bonatolasa/another-project)
-**Tech Stack:** Next.js, TypeScript, PostgreSQL
-A responsive web app with [key features].
-
-### 💡 [Open Source Contribution](https://github.com/some-repo)
-**Contribution:** Fixed bug #123, Added feature XYZ
-Contributed to [project name] by [what you did].
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be auto-populated from your blog RSS feed -->
-- [How I Built My Portfolio](https://yourblog.com/post1)
-- [Understanding React Hooks](https://yourblog.com/post2)
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Connect With Me
 
 <p align="left">

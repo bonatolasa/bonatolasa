@@ -10,7 +10,7 @@
   <a href="https://github.com/bonatolasa">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bonatolasa?color=blue&logo=github">
   </a>
- <a href="https://instagram.com/yourusername" target="_blank">
+ <a href="https://instagram.com/bonsi_net" target="_blank">
     <img alt="Instagram Follow" src="https://img.shields.io/badge/Instagram-Follow-blue?style=social&logo=instagram">
   </a>
 </p>

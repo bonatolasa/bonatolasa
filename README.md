@@ -116,7 +116,7 @@ I'm a passionate full-stack developer from Ethiopia with 3+ years of experience 
   <a href="https://stackoverflow.com/users/30244793" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/bonsi_net" target="_blank">
+  <a href="https://www.hackerrank.com/profile/bonatolasa" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/bontolasa/" target="_blank">
